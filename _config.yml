@@ -1,12 +1,10 @@
 name: "Chris Kanich"
 description: "Assistant Professor Chris Kanich's personal web page."
 author: "Chris Kanich"
-departmenturl: "http://www.cs.uic.edu/"
-departmentname: "UIC Computer Science"
-personal: "http://www.cs.uic.edu/~ckanich/"
 
 baseurl: "/~ckanich"
 
+exclude: ["README.md"]
 
 gems: ["jekyll/scholar"]
 

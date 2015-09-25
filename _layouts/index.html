@@ -1,81 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Meta, title, CSS, favicons, etc. -->
-    {% include header.html %}
-    <!-- Place anything custom after this. -->
-  </head>
-  <body>
-    <a href="images/ckanich.full.jpg"><img id="profile" title="It was very windy that day." src="images/ckanich@2x.jpg"></a>
-    <div id="namecontact">
-      <div class="sectitle"><div class="myname"><a href=mailto:ckanich@uic.edu>Chris Kanich</a></div></div>
-      <div class="secbody">
-      
-        {% markdown contact.md %}
-      
-      </div>
-    </div>
-    <div class="divider"></div>
-    <div id="interests">
-      <div class="sectitle">Research interests</div>
-      <div class="secbody"> 
-        
-        {% markdown research.md %}
-        
-      </div>
-    </div>
-    <div id="media">
-      <div class="sectitle">Selected media coverage</div>
-      <div class="secbody">
-        
-        {% markdown media.md %}
-        
-      </div>
-    </div>
-    <div class="divider"></div>
-    <div class="sectitle">Active Projects</div>
-    <div class="secbody">
-
-      {% markdown projects.md %}
-
-    </div>
-    <div class="divider"></div>
-    <div class="sectitle">Students</div>
-    <div class="secbody">
-
-      {% markdown students.md %}
-
-    </div>
-    <div class="divider"></div>
-    <div class="sectitle">Selected publications</div>
-    <div class="secbody">
-      
-      
-      {% bibliography --query @*[note~=featured||year>=2013]  %}
-
-      {% markdown publications.md %}
-    </div>
+<head>
+<!-- Meta, title, CSS, favicons, etc. -->
+{% include header.html %}
+<!-- Place anything custom after this. -->
+</head>
+<body class="container-fluid">
+<section id="namecontact" class="col-sm-8 col-sm-push-4">
+  <div class="sectitle">
+    <div class="myname"><a href=mailto:ckanich@uic.edu>Chris Kanich</a></div>
   </div>
-  <div class="divider"></div>
+  <div class="secbody">
+
+    {% markdown contact.md %}
+
+  </div>
+</section>
+<section class="col-sm-4 col-sm-pull-8">
+  <div class="hidden-xs" id="headshot"><a href="images/ckanich.full.jpg"><img class="img-responsive" id="profile" title="It was very windy that day." src="images/ckanich.jpg"></a></div>
+  <div class="secbody visible-xs-block"><a href="images/ckanich.jpg">What I look like</a></div>
+</section>
+
+<section class="col-sm-7" id="interests">
+  <div class="sectitle">Research interests</div>
+  <div class="secbody"> 
+
+    {% markdown research.md %}
+
+  </div>
+</section>
+<section class="col-sm-5" id="media">
+  <div class="sectitle">Selected media coverage</div>
+  <div class="secbody">
+
+    {% markdown media.md %}
+
+  </div>
+</section>
+
+<section id="projects" class="col-sm-12">
+  <div class="sectitle">Active Projects</div>
+  <div class="secbody">
+
+    {% markdown projects.md %}
+
+  </div>
+</section>
+<section id="students" class="col-sm-12">
+  <div class="sectitle">Students</div>
+  <div class="secbody">
+
+    {% markdown students.md %}
+
+  </div>
+</section>
+<section id="publications" class="col-sm-12">
+  <div class="sectitle">Selected publications</div>
+  <div class="secbody">
+
+
+    {% bibliography --query @*[note~=featured||year>=2013]  %}
+
+    {% markdown publications.md %}
+  </div>
+</section>
+<section id="activities" class="col-sm-12">
   <div class="sectitle">Professional Activities</div>
   <div class="secbody">
 
     {% markdown activities.md %}
 
   </div>
-  <div class="divider"></div>
+</section>
+<section id="teaching" class="col-sm-12">
   <div class="sectitle">Teaching</div>
   <div class="secbody">
-    
+
     {% markdown teaching.md %}
 
   </div>
+</section>
 
-  <!-- Footer
+<!-- Footer
   ================================================== -->
 
-  <!-- JS and analytics only. -->
-  {% include footer.html %}
+<!-- JS and analytics only. -->
+{% include footer.html %}
 </body>
 </html>
 
