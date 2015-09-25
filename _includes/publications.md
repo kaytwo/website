@@ -1,1 +1,1 @@
-[Full publication list](publications.html)
+[Full publication list](papers/)

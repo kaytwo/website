@@ -6,5 +6,5 @@
 [450-f15]: cs450/f15/
 [450-f14]: cs450/f14/
 [450-f13]: cs450/f13/
-[450-s13]: cs450/s13/
+[450-s13]: http://www.cs.uic.edu/bin/view/CS450/WebHome
 [594-s14]: cs594/s14/

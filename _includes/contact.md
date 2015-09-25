@@ -17,7 +17,9 @@ Contact information:
 
 * Email: [ckanich@uic.edu][ckanich]
 * skype: ckanich
+* twitter: [@kaytwo][twitter]
 
 [ckanich]: mailto:ckanich@uic.edu
 [uiccs]: http://www.cs.uic.edu
 [uic]: http://www.uic.edu
+[twitter]: https://twitter.com/kaytwo
