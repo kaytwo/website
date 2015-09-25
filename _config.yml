@@ -1,0 +1,22 @@
+name: "Chris Kanich"
+description: "Assistant Professor Chris Kanich's personal web page."
+author: "Chris Kanich"
+departmenturl: "http://www.cs.uic.edu/"
+departmentname: "UIC Computer Science"
+personal: "http://www.cs.uic.edu/~ckanich/"
+
+baseurl: "/~ckanich"
+
+
+gems: ["jekyll/scholar"]
+
+sections: [home, publications]
+
+scholar:
+  style: _includes/ieee.csl
+
+  bibliography: publications.bib
+  source: _includes/
+  repository: papers
+  bibliography_template: "{{reference}} {% if link %} <a href='{{link}}'>PDF</a> {% endif %}"
+

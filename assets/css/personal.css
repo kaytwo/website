@@ -1,0 +1,84 @@
+body {
+	background-color: #DCDCDC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+    margin: auto; padding:25px;
+}
+
+p {
+  margin: 0 0 5px;
+}
+
+a {
+	color: #3366CC;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+	line-height: 30px;
+  background-color: #006666;
+	color: #DCDCDC;
+}
+#namecontact {
+    margin-left:380px;
+}
+#interests{
+    float:left;
+    width:60%;
+}
+#media{
+    margin-left:60%;
+}
+#profile{
+    float:left;
+    margin: 5px;
+    width:366px;
+    height:429px;
+}
+.divider{
+    clear:both;
+    height:15px;
+}
+.myname{
+    font-size: 24px;
+    font-weight: bold;
+}
+h2, .sectitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+    font-weight:bold;
+	background-color: #CCCCCC;
+    margin:5px;
+    padding:5px;
+}
+.secbody {
+	font-family: Arial, Helvetica, sans-serif;
+	/* font-size: 14px; */
+	line-height: 18px;
+	padding: 10px 15px;
+    margin: 5px;
+	background-color: #FFFFFF;
+}
+
+ul {
+  list-style:none;
+  padding-left:1em;
+}
+
+ol > li {
+  margin: 0 0 8px;
+  text-indent: 1em;
+}
+
+ol {
+  list-style:none;
+  padding-left:1em;
+}
+
+li {
+  margin: 0 0 2px;
+}
