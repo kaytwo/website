@@ -13,6 +13,9 @@ sections: [home, publications]
 scholar:
   style: _includes/ieee.csl
 
+  sort_by: year
+  order: descending
+  
   bibliography: publications.bib
   source: _includes/
   repository: papers
