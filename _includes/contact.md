@@ -16,7 +16,6 @@ Contact information:
   * 312-355-0950 (email is vastly preferred)
 
 * email: [ckanich@uic.edu][ckanich]
-* skype: [ckanich](skype:ckanich?userinfo)
 * twitter: [@kaytwo][twitter]
 * github: [@kaytwo][github]
 

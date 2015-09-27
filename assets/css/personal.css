@@ -17,7 +17,9 @@ a:hover {
 	text-decoration: underline;
 }
 
-
+.pars{
+  text-indent:1em;
+}
 
 .divider{
     clear:both;
