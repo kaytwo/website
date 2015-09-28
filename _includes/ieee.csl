@@ -80,7 +80,7 @@
   </macro>
   <macro name="author">
     <names variable="author">
-      <name initialize-with=". " delimiter=", " and="text"/>
+      <name delimiter=", " and="text"/>
       <label form="short" prefix=", " text-case="capitalize-first"/>
       <substitute>
         <names variable="editor"/>
@@ -90,7 +90,7 @@
   </macro>
   <macro name="editor">
     <names variable="editor">
-      <name initialize-with=". " delimiter=", " and="text"/>
+      <name delimiter=", " and="text"/>
       <label form="short" prefix=", " text-case="capitalize-first"/>
     </names>
   </macro>
