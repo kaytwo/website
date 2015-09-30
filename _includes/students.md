@@ -1,13 +1,10 @@
 Ph.D. students: 
 
+* Sara Amini
 * Beas Bhattacharya
+* Sangeeta Chowdhary
 * [Mohammad Taha Khan][taha]
 * [Peter Snyder][pete]
-
-Lab associates:
-
-* Sangeeta Chowdhary
-* Sara Amini
 
 Undergrads:
 
@@ -23,7 +20,7 @@ Alums:
 * [Arthur Smirnov][arthur]
 
 [bradley]: https://bradleygolden.github.io/
-[sruti]: http://www.cs.uic.edu/Bits/SrutiBhagavatula
-[taha]: http://www.cs.uic.edu/Bits/MohammadTahaKhan
-[pete]: http://www.cs.uic.edu/Bits/PeterSnyder
-[arthur]: http://www.cs.uic.edu/~asmirnov/
+[sruti]: https://www.cs.uic.edu/Bits/SrutiBhagavatula
+[taha]: https://www.cs.uic.edu/Bits/MohammadTahaKhan
+[pete]: https://www.cs.uic.edu/Bits/PeterSnyder
+[arthur]: https://www.cs.uic.edu/~asmirnov/
