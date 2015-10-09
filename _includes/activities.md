@@ -1,4 +1,12 @@
+I am the area editor for Information Security and Network Measurement for the
+[ACM SIGCAS](http://www.sigcas.org/) Computers and Society newsletter. If
+you'd be interested in getting your work in front of a broader audience---anything from a really good blog post to a fully formed
+article---I encourage you to submit.
+
+Beyond that, I do/have done:
+
 * Program Committee, 2016 IEEE Symposium on Security and Privacy
+* Program Committee, 2016 eCrime Symposium
 * Program Committee, 2016 LASER Workshop
 * Program Committee, 2016 WWW Conference
 * Program Committee, 2015 IEEE Symposium on Security and Privacy

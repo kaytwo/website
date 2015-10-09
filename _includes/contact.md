@@ -12,13 +12,12 @@ Contact information:
      Room 1120 SEO (M/C 152)  
      Chicago, IL 60607
 
-* phone: 
-  * 312-355-0950 (email is vastly preferred)
-
 * email: [ckanich@uic.edu][ckanich]
+* phone: [312-355-0950][phone] (email is vastly preferred)
 * twitter: [@kaytwo][twitter]
 * github: [@kaytwo][github]
 
+[phone]: tel:1-312-355-0950
 [ckanich]: mailto:ckanich@uic.edu
 [uiccs]: http://www.cs.uic.edu
 [uic]: http://www.uic.edu

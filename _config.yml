@@ -1,7 +1,7 @@
 name: "Chris Kanich"
 description: "Assistant Professor Chris Kanich's personal web page."
 author: "Chris Kanich"
-
+googlescholar: "https://scholar.google.com/citations?user=Zy1b3UAAAAAJ&hl=en"
 baseurl: "/~ckanich"
 
 exclude: ["README.md"]

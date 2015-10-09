@@ -1,7 +1,6 @@
 Ph.D. students: 
 
 * Sara Amini
-* Beas Bhattacharya
 * Sangeeta Chowdhary
 * [Mohammad Taha Khan][taha]
 * [Peter Snyder][pete]
