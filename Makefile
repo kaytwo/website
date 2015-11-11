@@ -1,7 +1,7 @@
 all: _site
 
 _site: *.md papers/* _includes/*
-	jekyll build --full-rebuild
+	jekyll build
 
 clean:
 	rm -r _site

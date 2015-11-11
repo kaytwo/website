@@ -20,6 +20,6 @@ Alums:
 
 [bradley]: https://bradleygolden.github.io/
 [sruti]: https://www.cs.uic.edu/Bits/SrutiBhagavatula
-[taha]: https://www.cs.uic.edu/Bits/MohammadTahaKhan
+[taha]: https://www.cs.uic.edu/~taha/
 [pete]: https://www.cs.uic.edu/Bits/PeterSnyder
 [arthur]: https://www.cs.uic.edu/~asmirnov/
