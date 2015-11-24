@@ -10,8 +10,9 @@ Beyond that, I do/have done:
 * Program Committee, 2016 LASER Workshop
 * Program Committee, 2016 WWW Conference
 * Program Committee, 2015 IEEE Symposium on Security and Privacy
+* Program Committee, 2015 RAID Conference
 * Program Co-Chair, 2014 USENIX Workshop on Cyber Security Experimentation and Test (CSET)
-* Program Committee, 2014 Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA)
+* Program Committee, 2014 DIMVA Conference 
 * Publicity Chair, 2014 IEEE Security & Privacy Workshops
 * Program Committee, 2014 Network and Distributed System Security (NDSS) Symposium
 * Program Committee, 2013 Annual Computer Security Applications Conference(ACSAC)
