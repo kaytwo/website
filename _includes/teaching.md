@@ -2,7 +2,7 @@
 * CS 450: Computer Networks **[Fall 2015][450-f15]** [Fall 2014][450-f14] [Fall 2013][450-f13] [Spring 2013][450-s13]
 * CS 594: Beyond the Dark Side of Data [Spring 2014][594-s14]
 
-[361-s16]: cs361/s16/
+[361-s16]: https://uiccs.github.io/cs361/
 [361-s15]: cs361/s15/
 [450-f15]: cs450/f15/
 [450-f14]: cs450/f14/
