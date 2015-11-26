@@ -18,6 +18,8 @@ Alums:
 * Weiheng Alex Ruan
 * [Arthur Smirnov][arthur]
 
+[Advice for prospective students](prospective.html)
+
 [bradley]: https://bradleygolden.github.io/
 [sruti]: https://www.cs.uic.edu/Bits/SrutiBhagavatula
 [taha]: https://www.cs.uic.edu/~taha/

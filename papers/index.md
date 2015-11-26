@@ -1,9 +1,6 @@
 ---
-title: Publications
+title: "Full publication list"
+id: publications
 ---
 
-## Full publication list
-
 {% bibliography %}
-
-[Home]({{site.baseurl}}/)

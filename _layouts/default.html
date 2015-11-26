@@ -6,10 +6,18 @@
 <!-- Place anything custom after this. -->
 </head>
 <body>
+<section id="singlesec" class="col-sm-12">
+  <div class="sectitle">{{ page.title }}</div>
+  <div class="secbody">
 
-<div class="secbody">
-  {{ content }}
-</div>
+    {{ content }}
+  </div>
+</section>
+<section class="col-sm-12">
+  <div class="secbody">
+    <a href="{{ site.baseurl }}/">Home</a>
+  </div>
+</section>
 
 <!-- Footer
   ================================================== -->
