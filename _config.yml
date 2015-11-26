@@ -13,7 +13,7 @@ sections: [home, publications]
 scholar:
   style: _includes/ieee.csl
 
-  sort_by: year
+  sort_by: year,month
   order: descending
   
   bibliography: publications.bib
