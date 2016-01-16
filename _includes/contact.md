@@ -4,7 +4,7 @@ Contact information:
 
 * in person:   
   * room 1220 SEO (office, most likely location) or ERF 2054 (lab)   
-  * Fall 2015 office hours: Monday and Wednesday 4pm-5pm, and by appointment   
+  * Spring 2016 office hours: 4pm-5pm Tuesday, 2p-3pm Thursday, and by appointment   
 
 * snail mail:   
   *  University of Illinois at Chicago   
