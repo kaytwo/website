@@ -4,7 +4,7 @@ author: "Chris Kanich"
 googlescholar: "https://scholar.google.com/citations?user=Zy1b3UAAAAAJ&hl=en"
 baseurl: "/~ckanich"
 
-exclude: ["README.md"]
+exclude: ["Makefile","README.md"]
 
 gems: ["jekyll/scholar"]
 
