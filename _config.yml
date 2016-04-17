@@ -6,6 +6,8 @@ baseurl: "/~ckanich"
 
 exclude: ["Makefile","README.md"]
 
+viewsource: "https://github.com/kaytwo/website"
+
 gems: ["jekyll/scholar"]
 
 sections: [home, publications]
