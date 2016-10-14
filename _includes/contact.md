@@ -3,8 +3,8 @@ I am an Assistant Professor at the [University of Illinois at Chicago][uic] in t
 Contact information:   
 
 * in person:   
-  * room 1220 SEO (office, most likely location) or ERF 2054 (lab)   
-  * Spring 2016 office hours: 1:30-2:30 Wednesday, 3:30-4:30 Thursday, and by appointment   
+  * room 1220 SEO   
+  * Fall 2016 office hours: 1pm-2pm Tuesdays and by appointment (email me!)   
 
 * snail mail:   
   *  University of Illinois at Chicago   

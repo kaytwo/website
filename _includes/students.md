@@ -27,5 +27,5 @@ Alums:
 [bradley]: https://bradleygolden.github.io/
 [sruti]: https://www.cs.cmu.edu/~sbhagava/
 [taha]: https://www.cs.uic.edu/~taha/
-[pete]: https://www.cs.uic.edu/Bits/PeterSnyder
+[pete]: https://www.cs.uic.edu/~psnyder/
 [arthur]: https://www.cs.uic.edu/~asmirnov/
