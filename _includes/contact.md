@@ -3,7 +3,7 @@ I am an Assistant Professor at the [University of Illinois at Chicago][uic] in t
 Contact information:   
 
 * in person:   
-  * room 1220 SEO   
+  * room **1308 SEO** (new as of December 2016)   
   * Fall 2016 office hours: 1pm-2pm Tuesdays and by appointment (email me!)   
 
 * snail mail:   
