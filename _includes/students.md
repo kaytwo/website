@@ -8,7 +8,6 @@ Ph.D. students:
 Undergrads:
 
 * Oliver Hui
-* Grieldo Lulaj
 * Dan Moreno
 * Alex Pieczynski
 * Natasha Rice
