@@ -6,6 +6,7 @@ article---I encourage you to submit.
 Beyond that, I do/have done:
 
 * Program Committee, 2017 USENIX Security Symposium
+* Program Committee, 2017 Workshop on the Economics of Information Security
 * Program Committee, 2017 eCrime Symposium
 * Program Committee, 2016 IEEE Symposium on Security and Privacy
 * Program Committee, 2016 eCrime Symposium
