@@ -5,21 +5,33 @@ article---I encourage you to submit.
 
 Beyond that, I do/have done:
 
-* Program Committee, 2017 USENIX Security Symposium
-* Program Committee, 2017 Workshop on the Economics of Information Security
-* Program Committee, 2017 eCrime Symposium
-* Program Committee, 2016 IEEE Symposium on Security and Privacy
-* Program Committee, 2016 eCrime Symposium
-* Program Committee, 2016 LASER Workshop
-* Program Committee, 2016 WWW Conference
-* Program Committee, 2015 IEEE Symposium on Security and Privacy
-* Program Committee, 2015 CCS
-* Program Committee, 2015 RAID Conference
-* Program Co-Chair, 2014 USENIX Workshop on Cyber Security Experimentation and Test (CSET)
-* Program Committee, 2014 DIMVA Conference 
-* Publicity Chair, 2014 IEEE Security & Privacy Workshops
-* Program Committee, 2014 Network and Distributed System Security (NDSS) Symposium
-* Program Committee, 2013 Annual Computer Security Applications Conference(ACSAC)
-* Program Co-Chair, 2013 USENIX Workshop on Cyber Security Experimentation and Test (CSET)
-* Program Committee, 2013 USENIX Workshop on Hot Topics in Cloud Computing (HotCloud)
-* Program Committee, 2012 USENIX Workshop on Cyber Security Experimentation and Test (CSET)
+* Program Committee, [ACSAC][acsac]: 2013, 2017
+* Program Committee, [USENIX Security][usec]: 2014, 2017
+* Program Committee, [WEIS][weis]: 2017
+* Program Committee, [eCrime Symposium][http://www.antiphishing.org/apwg-events/]: 2016, 2017
+* Program Committee, [IEEE Symposium on Security and Privacy][snp]: 2015, 2016
+* Program Committee, [LASER Workshop][laser]: 2016
+* Program Committee, [WWW Conference][www]: 2016
+* Program Committee, [ACM CCS][ccs]: 2015, 2016
+* Program Committee, [RAID Symposium][raid]: 2015
+* Program Co-Chair, [CSET][cset]: 2013, 2014
+* Program Committee, [DIMVA Conference][dimva]: 2014
+* Publicity Chair, [IEEE Security & Privacy Workshops][spw]: 2014
+* Program Committee, [NDSS][ndss]: 2014
+* Program Committee, [HotCloud][hotcloud]: 2013
+* Program Committee, [CSET][cset]: 2012
+
+[cset]: https://www.usenix.org/conferences/byname/135
+[hotcloud]: https://www.usenix.org/conferences/byname/1
+[ndss]: https://www.internetsociety.org/events/ndss-symposium
+[dimva]: http://www.dimva.org/
+[raid]: http://www.raid-symposium.org/
+[spw]: http://www.ieee-security.org/TC/SP2014/
+[www]: http://www.iw3c2.org/
+[snp]: http://www.ieee-security.org/TC/SP-Index.html
+[ccs]: http://dl.acm.org/event.cfm?id=RE182
+[laser]: http://www.laser-workshop.org/
+[ecrime]: http://www.antiphishing.org/apwg-events/
+[weis]: http://econinfosec.org/
+[usec]: https://www.usenix.org/conferences/byname/108
+[acsac]: https://www.acsac.org
