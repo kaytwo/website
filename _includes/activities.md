@@ -8,7 +8,7 @@ Beyond that, I do/have done:
 * Program Committee, [ACSAC][acsac]: 2013, 2017
 * Program Committee, [USENIX Security][usec]: 2014, 2017
 * Program Committee, [WEIS][weis]: 2017
-* Program Committee, [eCrime Symposium][http://www.antiphishing.org/apwg-events/]: 2016, 2017
+* Program Committee, [eCrime Symposium][ecrime]: 2016, 2017
 * Program Committee, [IEEE Symposium on Security and Privacy][snp]: 2015, 2016
 * Program Committee, [LASER Workshop][laser]: 2016
 * Program Committee, [WWW Conference][www]: 2016
