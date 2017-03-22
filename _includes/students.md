@@ -1,7 +1,7 @@
 Ph.D. students: 
 
-* Sara Amini
-* Mohammad Ghasemisharif
+* [Sara Amini][sara]
+* [Mohammad Ghasemisharif][moe]
 * [Mohammad Taha Khan][taha]
 * [Peter Snyder][pete]
 
@@ -31,3 +31,5 @@ Alums:
 [taha]: https://www.cs.uic.edu/~taha/
 [pete]: https://www.cs.uic.edu/~psnyder/
 [arthur]: https://www.cs.uic.edu/~asmirnov/
+[sara]: https://www.cs.uic.edu/~samini/
+[moe]: https://www.cs.uic.edu/~mghasemi/
