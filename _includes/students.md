@@ -3,13 +3,13 @@ Ph.D. students:
 * [Sara Amini][sara]
 * [Mohammad Ghasemisharif][moe]
 * [Mohammad Taha Khan][taha]
+* [John Kristoff][jtk]
 * [Peter Snyder][pete]
 
 Undergrads:
 
 * Oliver Hui
 * Dan Moreno
-* Alex Pieczynski
 * Natasha Rice
 
 Alums:
@@ -19,12 +19,15 @@ Alums:
 * Sangeeta Chowdhary -> Rutgers
 * [Bradley Golden][bradley]
 * Lubna Mirza
+* Alex Pieczynski
 * Weiheng Alex Ruan
 * [Arthur Smirnov][arthur]
 * Moin Vahora
 
+
 [Advice for prospective students](prospective.html)
 
+[jtk]: https://aharp.iorc.depaul.edu/
 [josh]: https://bluuarc.github.io/
 [bradley]: https://bradleygolden.github.io/
 [sruti]: https://www.cs.cmu.edu/~sbhagava/
