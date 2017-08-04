@@ -5,6 +5,7 @@ article---I encourage you to submit.
 
 Beyond that, I do/have done:
 
+* Program Committee, [NDSS][ndss]: 2014, 2018
 * Program Committee, [ACSAC][acsac]: 2013, 2017
 * Program Committee, [USENIX Security][usec]: 2014, 2017
 * Program Committee, [WEIS][weis]: 2017
@@ -17,7 +18,6 @@ Beyond that, I do/have done:
 * Program Co-Chair, [CSET][cset]: 2013, 2014
 * Program Committee, [DIMVA Conference][dimva]: 2014
 * Publicity Chair, [IEEE Security & Privacy Workshops][spw]: 2014
-* Program Committee, [NDSS][ndss]: 2014
 * Program Committee, [HotCloud][hotcloud]: 2013
 * Program Committee, [CSET][cset]: 2012
 
