@@ -6,20 +6,17 @@ Ph.D. students:
 * [John Kristoff][jtk]
 * [Peter Snyder][pete]
 
-Undergrads:
-
-* Oliver Hui
-* Dan Moreno
-* Natasha Rice
-
 Alums:
 
 * [Sruti Bhagavatula][sruti] -> CMU
 * [Joshua Castor][josh]
 * Sangeeta Chowdhary -> Rutgers
 * [Bradley Golden][bradley]
+* Oliver Hui
 * Lubna Mirza
+* Dan Moreno
 * Alex Pieczynski
+* Natasha Rice
 * Weiheng Alex Ruan
 * [Arthur Smirnov][arthur]
 * Moin Vahora

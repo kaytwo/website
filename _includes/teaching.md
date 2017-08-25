@@ -1,4 +1,4 @@
-* CS 491: Secure Web Application Development **Fall 2017**
+* CS 491: Secure Web Application Design **Fall 2017**
 * CS 361: Computer Systems [Spring 2016][361-s16] [Spring 2015][361-s15] 
 * CS 450: Computer Networks [Spring 2017][450-s17] [Fall 2015][450-f15] [Fall 2014][450-f14] [Fall 2013][450-f13] [Spring 2013][450-s13]
 * CS 594: Beyond the Dark Side of Data [Spring 2014][594-s14]
