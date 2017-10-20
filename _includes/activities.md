@@ -1,7 +1,9 @@
-I am the area editor for Information Security and Network Measurement for the
-[ACM SIGCAS](http://www.sigcas.org/) Computers and Society newsletter. If
-you'd be interested in getting your work in front of a broader audience---anything from a really good blog post to a fully formed
-article---I encourage you to submit.
+This year I'm chairing the 
+[Second Workshop on Targeted Attacks](https://fc18.ifca.ai/targetedattacks/)
+co-located with the Financial
+Cryptography conference in Curaçao on March 2, 2018. I encourage you to submit any research that focuses
+on targeted attacks, whether it's their methods, targets, defenses, impacts, or any other aspect. The paper submission
+deadline is December 12th.
 
 Beyond that, I do/have done:
 
@@ -14,6 +16,7 @@ Beyond that, I do/have done:
 * Program Committee, [LASER Workshop][laser]: 2016
 * Program Committee, [WWW Conference][www]: 2016
 * Program Committee, [ACM CCS][ccs]: 2015, 2016
+* Area Editor, [ACM SIGCAS](http://www.sigcas.org/) Computers and Society newsletter: 2015-present
 * Program Committee, [RAID Symposium][raid]: 2015
 * Program Co-Chair, [CSET][cset]: 2013, 2014
 * Program Committee, [DIMVA Conference][dimva]: 2014
