@@ -1,11 +1,4 @@
-This year I'm chairing the 
-[Second Workshop on Targeted Attacks](https://fc18.ifca.ai/targetedattacks/)
-co-located with the Financial
-Cryptography conference in Curaçao on March 2, 2018. I encourage you to submit any research that focuses
-on targeted attacks, whether it's their methods, targets, defenses, impacts, or any other aspect. The paper submission
-deadline is December 12th.
-
-Beyond that, I do/have done:
+I do/have done:
 
 * Program Committee, [eCrime Symposium][ecrime]: 2016, 2017, 2018
 * Program Committee, [ConPro](https://www.ieee-security.org/TC/SP2018/workshops.html#ConPro): 2018
