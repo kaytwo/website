@@ -4,6 +4,9 @@ Ph.D. students:
 * [Mohammad Ghasemisharif][moe]
 * [Mohammad Taha Khan][taha]
 * [John Kristoff][jtk]
+
+Ph.D. alums:
+
 * [Peter Snyder][pete]
 
 Alums:
@@ -29,7 +32,7 @@ Alums:
 [bradley]: https://bradleygolden.github.io/
 [sruti]: https://www.cs.cmu.edu/~sbhagava/
 [taha]: https://www.cs.uic.edu/~taha/
-[pete]: https://www.cs.uic.edu/~psnyder/
+[pete]: https://www.peteresnyder.com/
 [arthur]: https://www.cs.uic.edu/~asmirnov/
 [sara]: https://www.cs.uic.edu/~samini/
 [moe]: https://www.cs.uic.edu/~mghasemi/
