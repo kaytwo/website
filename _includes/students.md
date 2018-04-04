@@ -7,7 +7,7 @@ Ph.D. students:
 
 Ph.D. alums:
 
-* [Peter Snyder][pete]
+* [Peter Snyder][pete] -> Brave Software
 
 Alums:
 
