@@ -4,7 +4,7 @@ Contact information:
 
 * in person:   
   * room 1308 SEO    
-  * Spring 2017 office hours: 3pm-4pm Mondays and Wednesdays, and by appointment (email me!)   
+  * Spring 2018 office hours: 4pm-5pm Tuesday, 1pm-2pm Wednesday, and by appointment (email me!)   
 
 * snail mail:   
   *  University of Illinois at Chicago   
