@@ -2,6 +2,7 @@ Ph.D. students:
 
 * [Sara Amini][sara]
 * [Mohammad Ghasemisharif][moe]
+* Awais Jafar
 * [Mohammad Taha Khan][taha]
 * [John Kristoff][jtk]
 
