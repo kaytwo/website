@@ -2,7 +2,7 @@ Ph.D. students:
 
 * [Sara Amini][sara]
 * [Mohammad Ghasemisharif][moe]
-* Awais Jafar
+* [Awais Jafar][awais]
 * [Mohammad Taha Khan][taha]
 * [John Kristoff][jtk]
 
@@ -28,6 +28,7 @@ Alums:
 
 [Advice for prospective students](prospective.html)
 
+[awais]: https://www.cs.uic.edu/~awais/
 [jtk]: https://aharp.iorc.depaul.edu/
 [josh]: https://bluuarc.github.io/
 [bradley]: https://bradleygolden.github.io/
