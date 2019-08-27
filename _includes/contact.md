@@ -1,10 +1,10 @@
-I am an Assistant Professor at the [University of Illinois at Chicago][uic] in the [Department of Computer Science][uiccs].
+I am an Associate Professor at the [University of Illinois at Chicago][uic] in the [Department of Computer Science][uiccs].
 
 Contact information:   
 
 * in person:   
   * room 1308 SEO    
-  * Spring 2019 office hours: 10am-11am Wednesdays and Fridays, and by appointment (email me!)   
+  * Fall 2019 office hours: 1pm-2pm Wednesdays and Fridays, and by appointment (email me!)   
 
 * snail mail:   
   *  University of Illinois at Chicago   
