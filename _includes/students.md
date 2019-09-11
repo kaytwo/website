@@ -5,6 +5,8 @@ Ph.D. students:
 * [Awais Jafar][awais]
 * [Mohammad Taha Khan][taha]
 * [John Kristoff][jtk]
+* Joel Miller
+* Shubham Singh
 
 Ph.D. alums:
 
@@ -22,7 +24,7 @@ Alums:
 * Alex Pieczynski
 * Natasha Rice
 * Weiheng Alex Ruan
-* [Arthur Smirnov][arthur]
+* Arthur Smirnov
 * Moin Vahora
 
 
