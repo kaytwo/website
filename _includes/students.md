@@ -1,5 +1,6 @@
 Ph.D. students: 
 
+* Mir Masood Ali
 * [Sara Amini][sara]
 * [Mohammad Ghasemisharif][moe]
 * [Awais Jafar][awais]
