@@ -1,8 +1,9 @@
-I conduct research on the socio-technical aspects of cybersecurity. My current
-work includes analysis of gains and losses due to undesirable activity on the
-Internet, investigating human factors in effective Internet security
-mechanisms, and building new technological primitives with the goal of
-increasing the practical security and privacy of Internet users.
+I conduct data-driven research on the socio-technical aspects of
+cybersecurity. This research includes characterizing the shifting long-term
+privacy needs of Internet users, better understanding the extent to which deep
+learning threatens user security and privacy on the web, as well as the
+practical impact of security-centric tools like Single Sign-On and VPNs for
+users and non-users alike.
 
 I am very interested in new collaborations, motivated students, and lively
 conversation regarding security research - please reach out via email or
