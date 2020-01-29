@@ -1,6 +1,6 @@
 Ph.D. students: 
 
-* Mir Masood Ali
+* [Mir Masood Ali][masood]
 * [Sara Amini][sara]
 * [Mohammad Ghasemisharif][moe]
 * [Awais Jafar][awais]
@@ -31,6 +31,7 @@ Alums:
 
 [Advice for prospective students](prospective.html)
 
+[masood]: https://mirmasoodali.com/
 [awais]: https://www.cs.uic.edu/~awais/
 [jtk]: https://aharp.iorc.depaul.edu/
 [josh]: https://bluuarc.github.io/
