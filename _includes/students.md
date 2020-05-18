@@ -4,14 +4,22 @@ Ph.D. students:
 * [Sara Amini][sara]
 * [Mohammad Ghasemisharif][moe]
 * [Awais Jafar][awais]
-* [Mohammad Taha Khan][taha]
 * [John Kristoff][jtk]
 * Joel Miller
 * Shubham Singh
 
 Ph.D. alums:
 
-* [Peter Snyder][pete] -> Brave Software
+
+* [Mohammad Taha Khan][taha] 2020 -> Washington & Lee University
+* [Peter Snyder][pete] 2018 -> Brave Software
+
+Undergrads:
+
+* Alex Chomiak
+* Srishti Pyasi
+* Jamie Rodica
+* Ameesha Saxena
 
 Alums:
 
@@ -37,7 +45,7 @@ Alums:
 [josh]: https://bluuarc.github.io/
 [bradley]: https://bradleygolden.github.io/
 [sruti]: https://www.cs.cmu.edu/~sbhagava/
-[taha]: https://www.cs.uic.edu/~taha/
+[taha]: https://www.tahakhan.net/
 [pete]: https://www.peteresnyder.com/
 [arthur]: https://www.cs.uic.edu/~asmirnov/
 [sara]: https://www.cs.uic.edu/~samini/

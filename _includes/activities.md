@@ -1,11 +1,12 @@
 I do/have done:
 
+* Associate Chair, [ACM CHI][chi]: 2019, 2020, 2021
 * Program Committee, [IEEE Symposium on Security and Privacy][snp]: 2015, 2016, 2019
 * Program Committee, [eCrime Symposium][ecrime]: 2016, 2017, 2018
-* Program Committee, [ConPro](https://www.ieee-security.org/TC/SP2018/workshops.html#ConPro): 2018
+* Program Committee, [ConPro](https://www.ieee-security.org/TC/SP2018/workshops.html#ConPro): 2018, 2019, 2020
 * Program Committee, [NDSS][ndss]: 2014, 2018
 * Program Committee, [ACSAC][acsac]: 2013, 2017
-* Program Committee, [USENIX Security][usec]: 2014, 2017
+* Program Committee, [USENIX Security][usec]: 2014, 2017, 2021
 * Program Committee, [WEIS][weis]: 2017
 * Program Committee, [LASER Workshop][laser]: 2016
 * Program Committee, [WWW Conference][www]: 2016
@@ -18,6 +19,7 @@ I do/have done:
 * Program Committee, [HotCloud][hotcloud]: 2013
 * Program Committee, [CSET][cset]: 2012
 
+[chi]: https://sigchi.org/
 [cset]: https://www.usenix.org/conferences/byname/135
 [hotcloud]: https://www.usenix.org/conferences/byname/1
 [ndss]: https://www.internetsociety.org/events/ndss-symposium

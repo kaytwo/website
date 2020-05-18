@@ -1,9 +1,9 @@
-* CS 361: Computer Systems [Fall 2019][361-f19] [Fall 2018][361-f18] Spring 2016 [Spring 2015][361-s15] 
-* CS 450: Computer Networks [Spring 2018][450-s18] [Spring 2017][450-s17] [Fall 2015][450-f15] [Fall 2014][450-f14] [Fall 2013][450-f13] [Spring 2013][450-s13]
-* CS 491: Secure Web Application Development [Fall 2017][swad-f17] **[Spring 2020][swad-s20]**
-* CS 568: Advanced Security & Online Privacy <abbr title="In Spring 2019, CS 568 was offered as CS 594.">[Spring 2019][568-s19]</abbr>
-* CS 594: Beyond the Dark Side of Data [Spring 2014][594-s14]
-* CS 594: Empirical Analysis [Fall 2016][594-f16]
+* **CS 361: Systems Programming** Fall 2020 [Fall 2019][361-f19] [Fall 2018][361-f18] Spring 2016 [Spring 2015][361-s15] 
+* **CS 450: Computer Networks** [Spring 2018][450-s18] [Spring 2017][450-s17] [Fall 2015][450-f15] [Fall 2014][450-f14] [Fall 2013][450-f13] [Spring 2013][450-s13]
+* **CS 484: Secure Web Application Development** <abbr title="Prior to Summer 2020 this course was offered under a temporary number of CS 491 or CS 494.">[Fall 2017][swad-f17] [Spring 2020][swad-s20]</abbr>
+* **CS 568: Advanced Security & Online Privacy** <abbr title="In Spring 2019, CS 568 was offered as CS 594.">[Spring 2019][568-s19]</abbr>
+* **CS 594: Beyond the Dark Side of Data** [Spring 2014][594-s14]
+* **CS 594: Empirical Analysis** [Fall 2016][594-f16]
 
 [swad-s20]: swad/s20/
 [568-s19]: https://piazza.com/class/jqy7g7qn2pc7gw
