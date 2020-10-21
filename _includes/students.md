@@ -41,7 +41,7 @@ Alums:
 
 [masood]: https://mirmasoodali.com/
 [awais]: https://www.cs.uic.edu/~awais/
-[jtk]: https://aharp.iorc.depaul.edu/
+[jtk]: https://dataplane.org/jtk/
 [josh]: https://bluuarc.github.io/
 [bradley]: https://bradleygolden.github.io/
 [sruti]: https://www.cs.cmu.edu/~sbhagava/
