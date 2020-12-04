@@ -1,7 +1,6 @@
 Ph.D. students: 
 
 * [Mir Masood Ali][masood]
-* [Sara Amini][sara]
 * [Mohammad Ghasemisharif][moe]
 * [Awais Jafar][awais]
 * [John Kristoff][jtk]
@@ -11,15 +10,16 @@ Ph.D. students:
 Ph.D. alums:
 
 
+* [Sara Amini][sara] 2020 -> Microsoft Corporation
 * [Mohammad Taha Khan][taha] 2020 -> Washington & Lee University
 * [Peter Snyder][pete] 2018 -> Brave Software
 
 Undergrads:
 
 * Alex Chomiak
+* Arshad Narmawala
 * Srishti Pyasi
 * Jamie Rodica
-* Ameesha Saxena
 
 Alums:
 
@@ -33,6 +33,7 @@ Alums:
 * Alex Pieczynski
 * Natasha Rice
 * Weiheng Alex Ruan
+* Ameesha Saxena
 * Arthur Smirnov
 * Moin Vahora
 
