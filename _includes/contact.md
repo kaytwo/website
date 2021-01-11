@@ -4,7 +4,7 @@ Contact information:
 
 * in person:   
   * room 1308 SEO    
-  * Spring 2020 office hours: 1pm-3pm Mondays, and by appointment (email me!)   
+  * Spring 2021 office hours: 3-4:30pm Tuesdays. UIC people can contact me directly via MS Teams. I also do office hours by appointment (email me!).   
 
 * snail mail:   
   *  University of Illinois at Chicago   
