@@ -1,3 +1,5 @@
+I talked to Jacob Goldstein about CAPTCHAs for [Planet Money Episode 908: I Am Not A Robot](https://www.npr.org/sections/money/2019/04/24/716854013/episode-908-i-am-not-a-robot)
+
 Our [SSO security paper](papers/ghasemisharif2018osingle.pdf) was covered in [WIRED Magazine](https://www.wired.com/story/single-sign-on-facebook-google-apple/).
 
 Our <a href="papers/snyder2016browser.pdf">feature usage paper</a> on <a href="https://provocateurpodcast.com/2017/07/31/chris-kanich-privacy-on-the-modern-web/">The Provocateur Podcast</a>, July 31 2017<br />
