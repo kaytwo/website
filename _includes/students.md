@@ -5,7 +5,7 @@ Ph.D. students:
 * [Awais Jafar][awais]
 * [John Kristoff][jtk]
 * Joel Miller
-* Shubham Singh
+* [Shubham Singh][shubham]
 
 Ph.D. alums:
 
@@ -51,3 +51,4 @@ Alums:
 [arthur]: https://www.cs.uic.edu/~asmirnov/
 [sara]: https://www.cs.uic.edu/~samini/
 [moe]: https://www.cs.uic.edu/~mghasemi/
+[shubham]: https://shubhams.github.io/
