@@ -1,3 +1,5 @@
+Our work on Favicon tracking [was written up on Ars Technica](https://arstechnica.com/information-technology/2021/02/new-browser-tracking-hack-works-even-when-you-flush-caches-or-go-incognito/)
+
 I talked to Jacob Goldstein about CAPTCHAs for [Planet Money Episode 908: I Am Not A Robot](https://www.npr.org/sections/money/2019/04/24/716854013/episode-908-i-am-not-a-robot)
 
 Our [SSO security paper](papers/ghasemisharif2018osingle.pdf) was covered in [WIRED Magazine](https://www.wired.com/story/single-sign-on-facebook-google-apple/).
