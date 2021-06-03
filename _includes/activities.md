@@ -6,7 +6,7 @@ I do/have done:
 * Program Committee, [ConPro](https://www.ieee-security.org/TC/SP2018/workshops.html#ConPro): 2018, 2019, 2020
 * Program Committee, [NDSS][ndss]: 2014, 2018
 * Program Committee, [ACSAC][acsac]: 2013, 2017
-* Program Committee, [USENIX Security][usec]: 2014, 2017, 2021
+* Program Committee, [USENIX Security][usec]: 2014, 2017, 2021, 2022
 * Program Committee, [WEIS][weis]: 2017
 * Program Committee, [LASER Workshop][laser]: 2016
 * Program Committee, [WWW Conference][www]: 2016

@@ -1,3 +1,5 @@
+Dick Simpson, Kathleen Yang-Clayton, and I [wrote an op-ed in the Tribune](https://www.chicagotribune.com/opinion/commentary/ct-opinion-remap-redistrict-wards-neighborhoods-20210405-2tksqtmjibexncf57pc7tyqqci-story.html) about Chicago's decennial redistricting.
+
 Our work on Favicon tracking [was written up on Ars Technica](https://arstechnica.com/information-technology/2021/02/new-browser-tracking-hack-works-even-when-you-flush-caches-or-go-incognito/)
 
 I talked to Jacob Goldstein about CAPTCHAs for [Planet Money Episode 908: I Am Not A Robot](https://www.npr.org/sections/money/2019/04/24/716854013/episode-908-i-am-not-a-robot)

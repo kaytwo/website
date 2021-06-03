@@ -9,29 +9,28 @@ Ph.D. students:
 
 Ph.D. alums:
 
-
 * [Sara Amini][sara] 2020 -> Microsoft Corporation
 * [Mohammad Taha Khan][taha] 2020 -> Washington & Lee University
 * [Peter Snyder][pete] 2018 -> Brave Software
 
 Undergrads:
 
-* Alex Chomiak
-* Arshad Narmawala
 * Srishti Pyasi
-* Jamie Rodica
 
 Alums:
 
 * [Sruti Bhagavatula][sruti] -> CMU
 * [Joshua Castor][josh]
+* [Alex Chomiak](https://www.linkedin.com/in/alex-chomiak-308bb0195/) -> UIUC MS
 * Sangeeta Chowdhary -> Rutgers
 * [Bradley Golden][bradley]
 * Oliver Hui
 * Lubna Mirza
 * Dan Moreno
+* Arshad Narmawala
 * Alex Pieczynski
 * Natasha Rice
+* Jamie Rodica
 * Weiheng Alex Ruan
 * Ameesha Saxena
 * Arthur Smirnov
