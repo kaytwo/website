@@ -19,18 +19,19 @@ Undergrads:
 
 Alums:
 
+* Funmilola Akintoye
 * [Sruti Bhagavatula][sruti] -> CMU
 * [Joshua Castor][josh]
-* [Alex Chomiak](https://www.linkedin.com/in/alex-chomiak-308bb0195/) -> UIUC MS
+* [Alex Chomiak](https://www.linkedin.com/in/alex-chomiak-308bb0195/) -> UIUC MS, Senior Software Engineer at Fetch Rewards
 * Sangeeta Chowdhary -> Rutgers
 * [Bradley Golden][bradley]
 * Oliver Hui
 * Lubna Mirza
 * Dan Moreno
-* Arshad Narmawala
+* [Arshad Narmawala](https://www.linkedin.com/in/anarmawala) -> Associate Software Engineer at Lockheed Martin RMS
 * Alex Pieczynski
 * Natasha Rice
-* Jamie Rodica
+* [Jamie Rodica](https://www.linkedin.com/in/jamie-rodica/) -> Associate Software Engineer at Morningstar
 * Weiheng Alex Ruan
 * Ameesha Saxena
 * Arthur Smirnov
