@@ -20,7 +20,7 @@ Undergrads:
 Alums:
 
 * Funmilola Akintoye
-* [Sruti Bhagavatula][sruti] -> CMU
+* [Sruti Bhagavatula][sruti] -> CMU PhD -> Assistant Professor of Instruction at Northwestern University
 * [Joshua Castor][josh]
 * [Alex Chomiak](https://www.linkedin.com/in/alex-chomiak-308bb0195/) -> UIUC MS, Senior Software Engineer at Fetch Rewards
 * Sangeeta Chowdhary -> Rutgers
