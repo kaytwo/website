@@ -16,7 +16,11 @@ Contact information:
 * phone: [312-355-0950][phone] (email is vastly preferred)
 * twitter: [@kaytwo][twitter]
 * github: [@kaytwo][github]
+* YouTube: [Chris-Kanich][yt]
+* TikTok: [@ProfessorKanich][tt]
 
+[tt]: https://tiktok.com/@professorkanich
+[yt]: https://youtube.com/c/Chris-Kanich
 [phone]: tel:1-312-355-0950
 [ckanich]: mailto:ckanich@uic.edu
 [uiccs]: http://www.cs.uic.edu
