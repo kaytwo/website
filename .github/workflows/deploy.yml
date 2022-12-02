@@ -6,13 +6,13 @@ on:
       - main
 jobs:
   jekyll:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
     steps:
-    - uses: webfactory/ssh-agent@v0.4.1
+    - uses: webfactory/ssh-agent@v0.7.0
       with:
         # this key is restricted to only rsync to the website directory
         ssh-private-key: ${{ secrets.SSH_KEY }}
-    - run: echo -e "|1|2XhH6IiSRzcpXmmi1xd0MW0Stnw=|DKnzppUong6ZGaZJFO10Ov+LSfI= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAvmSM9cFyLTwaAQjf0j0bHZgsm7pBK/MJyLaaw04+RhW3F8MhvrVK+Zwb1V3q8R2R9s7OM6fkftje+6NbuNbuWqiqeScRamA+vVR2aTrUE7KqIsX2UL0QvVTBJQLEvH/BfyWgDjLx+J2biKXHcYQcoVaRRPkHC8ugKg0bGUHWdp+Bx9Bl0N2crZSUvz7kGm7+PrrXHe41eX8ZyUaxWZssf8/ldid7v2LeVverZD5DZcPGUsizYkBoyd9tQz9HAVfrRIS8oLJmrmTclK7pMy3f1I80BKwGCY2YQzkxIhTDftm7S74jOGYLd0nhVxhteFBhE7fwkN+TTtnkxRo8/VLcTw==\n" >> $HOME/.ssh/known_hosts
+    - run: echo -e "bertvm.cs.uic.edu ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILQPLfXJ5DgIWK+AcczeQBUOZmSas5/lkaB2Q37lHeMW\n" >> $HOME/.ssh/known_hosts
     - uses: actions/checkout@v2
     - run: >
         docker run 
@@ -21,4 +21,4 @@ jobs:
         jekyll/builder:latest /bin/bash -c
         "chmod a+w /srv/jekyll/Gemfile.lock && chmod 777 /srv/jekyll && jekyll build --future"
     - run: >
-        rsync -e "ssh -v" -avz _site/ ckanich@bert.cs.uic.edu:
+        rsync -e "ssh -v" -avz _site/ ckanich@bertvm.cs.uic.edu:
