@@ -1,9 +1,9 @@
-I am an Associate Professor at the [University of Illinois at Chicago][uic] in the [Department of Computer Science][uiccs].
+I am an Associate Professor at the [University of Illinois at Chicago][uic] in the [Department of Computer Science][uiccs]. As of Fall 2022 I also serve as the [Director of Undergraduate Studies](https://cs.uic.edu/undergraduate/).
 
 Contact information:   
 
 * in person:   
-  * room 1308 SEO    
+  * room 908 SEO    
   * Fall 2022 office hours: 3-4:30pm Mondays and Wednesdays. UIC people can contact me directly via MS Teams. I also do office hours by appointment (email me!).   
 
 * snail mail:   
