@@ -15,7 +15,7 @@ Ph.D. alums:
 
 Undergrads:
 
-* Srishti Pyasi
+* Rayaan Siddiqi
 
 Alums:
 
@@ -23,13 +23,14 @@ Alums:
 * [Sruti Bhagavatula][sruti] -> CMU PhD -> Assistant Professor of Instruction at Northwestern University
 * [Joshua Castor][josh]
 * [Alex Chomiak](https://www.linkedin.com/in/alex-chomiak-308bb0195/) -> UIUC MS, Senior Software Engineer at Fetch Rewards
-* Sangeeta Chowdhary -> Rutgers
+* Sangeeta Chowdhary -> Rutgers -> AMD
 * [Bradley Golden][bradley]
 * Oliver Hui
 * Lubna Mirza
 * Dan Moreno
 * [Arshad Narmawala](https://www.linkedin.com/in/anarmawala) -> Associate Software Engineer at Lockheed Martin RMS
 * Alex Pieczynski
+* Srishti Pyasi
 * Natasha Rice
 * [Jamie Rodica](https://www.linkedin.com/in/jamie-rodica/) -> Associate Software Engineer at Morningstar
 * Weiheng Alex Ruan
