@@ -15,8 +15,6 @@ Ph.D. alums:
 
 Undergrads:
 
-* Rayaan Siddiqi
-
 Alums:
 
 * Funmilola Akintoye
@@ -35,6 +33,7 @@ Alums:
 * [Jamie Rodica](https://www.linkedin.com/in/jamie-rodica/) -> Associate Software Engineer at Morningstar
 * Weiheng Alex Ruan
 * Ameesha Saxena
+* Rayaan Siddiqi -> SPEDxchange
 * Arthur Smirnov
 * Moin Vahora
 
