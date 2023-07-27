@@ -2,7 +2,6 @@ Ph.D. students:
 
 * [Mir Masood Ali][masood]
 * [Mohammad Ghasemisharif][moe]
-* [Awais Jafar][awais]
 * [John Kristoff][jtk]
 * Joel Miller
 * [Shubham Singh][shubham]
@@ -15,6 +14,9 @@ Ph.D. alums:
 
 Undergrads:
 
+* Adithya Prasad
+* Carson Zhang
+
 Alums:
 
 * Funmilola Akintoye
@@ -24,6 +26,7 @@ Alums:
 * Sangeeta Chowdhary -> Rutgers -> AMD
 * [Bradley Golden][bradley]
 * Oliver Hui
+* [Awais Jafar][awais] -> Uber
 * Lubna Mirza
 * Dan Moreno
 * [Arshad Narmawala](https://www.linkedin.com/in/anarmawala) -> Associate Software Engineer at Lockheed Martin RMS
