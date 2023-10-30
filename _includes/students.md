@@ -1,13 +1,13 @@
 Ph.D. students: 
 
 * [Mir Masood Ali][masood]
-* [Mohammad Ghasemisharif][moe]
 * [John Kristoff][jtk]
 * Joel Miller
 * [Shubham Singh][shubham]
 
 Ph.D. alums:
 
+* [Mohammad Ghasemisharif][moe] 2023
 * [Sara Amini][sara] 2020 -> Microsoft Corporation
 * [Mohammad Taha Khan][taha] 2020 -> Washington & Lee University
 * [Peter Snyder][pete] 2018 -> Brave Software
