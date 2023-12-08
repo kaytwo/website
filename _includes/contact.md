@@ -4,7 +4,7 @@ Contact information:
 
 * in person:   
   * room 908 SEO    
-  * Fall 2022 office hours: 3-4pm Thursdays (via Zoom) and Fridays (in person). UIC people can contact me directly via MS Teams. I also do office hours by appointment (email me!).   
+  * Spring 2024 office hours: by appointment (email me and/or [Briayna Miles](mailto:bmiles3@uic.edu)).   
 
 * snail mail:   
   *  University of Illinois at Chicago   
