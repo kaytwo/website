@@ -4,7 +4,7 @@ Contact information:
 
 * in person:   
   * room 908 SEO    
-  * Spring 2024 office hours: by appointment (email me and/or [Briayna Miles](mailto:bmiles3@uic.edu)).   
+  * Spring 2024 office hours: by appointment (email me).   
 
 * snail mail:   
   *  University of Illinois at Chicago   
