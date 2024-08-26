@@ -1,23 +1,25 @@
 I am an Associate Professor at the [University of Illinois at Chicago][uic] in the [Department of Computer Science][uiccs]. As of Fall 2022 I also serve as the [Director of Undergraduate Studies](https://cs.uic.edu/undergraduate/).
 
-Contact information:   
+Contact information:
 
-* in person:   
-  * room 908 SEO    
-  * Spring 2024 office hours: by appointment (email me).   
+- in person:
 
-* snail mail:   
-  *  University of Illinois at Chicago   
-     Dept. Computer Science  
-     Room 1120 SEO (M/C 152)  
-     Chicago, IL 60607
+  - room 908 SEO
+  - Fall 2024 office hours: 3:30-4:30 Tuesdays and Wednesdays.
 
-* email: [ckanich@uic.edu][ckanich]
-* phone: [312-355-0950][phone] (email is vastly preferred)
-* twitter: [@kaytwo][twitter]
-* github: [@kaytwo][github]
-* YouTube: [chriskanich][yt]
-* TikTok: [@ProfessorKanich][tt]
+- snail mail:
+
+  - University of Illinois at Chicago  
+    Dept. Computer Science  
+    Room 1120 SEO (M/C 152)  
+    Chicago, IL 60607
+
+- email: [ckanich@uic.edu][ckanich]
+- phone: [312-355-0950][phone] (email is vastly preferred)
+- twitter: [@kaytwo][twitter]
+- github: [@kaytwo][github]
+- YouTube: [chriskanich][yt]
+- TikTok: [@ProfessorKanich][tt]
 
 [tt]: https://tiktok.com/@professorkanich
 [yt]: https://www.youtube.com/chriskanich
