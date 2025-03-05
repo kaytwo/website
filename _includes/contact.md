@@ -5,7 +5,7 @@ Contact information:
 - in person:
 
   - room 908 SEO
-  - Fall 2024 office hours: 3:30-4:30 Tuesdays and Wednesdays.
+  - Spring 2025 office hours: 3:30-4:30 Tuesdays and Wednesdays.
 
 - snail mail:
 
