@@ -16,13 +16,14 @@ Contact information:
 
 - email: [ckanich@uic.edu][ckanich]
 - phone: [312-355-0950][phone] (email is vastly preferred)
-- twitter: [@kaytwo][twitter]
+- bluesky: [@kaytwo.org][bluesky]
 - github: [@kaytwo][github]
 - YouTube: [chriskanich][yt]
 - TikTok: [@ProfessorKanich][tt]
 
 [tt]: https://tiktok.com/@professorkanich
 [yt]: https://www.youtube.com/chriskanich
+[bluesky]: https://bsky.app/profile/kaytwo.org
 [phone]: tel:1-312-355-0950
 [ckanich]: mailto:ckanich@uic.edu
 [uiccs]: http://www.cs.uic.edu
