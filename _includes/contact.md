@@ -1,11 +1,13 @@
-I am an Associate Professor at the [University of Illinois at Chicago][uic] in the [Department of Computer Science][uiccs]. As of Fall 2022 I also serve as the [Director of Undergraduate Studies](https://cs.uic.edu/undergraduate/).
+I am an Associate Professor at the [University of Illinois at Chicago][uic] in the [Department of Computer Science][uiccs]. As of Fall 2025, I also serve as the College of Engineering [Associate Dean for Faculty Affairs](https://engineering.uic.edu/about/administration/).
+
+From Fall 2022 to Fall 2025, I served as the [Director of Undergraduate Studies](https://cs.uic.edu/undergraduate/).
 
 Contact information:
 
 - in person:
 
-  - room 908 SEO
-  - Spring 2025 office hours: 3:30-4:30 Tuesdays and Wednesdays.
+  - room 4411 CDRLC
+  - Fall 2025 office hours: 3:30-4:30 Tuesdays and Wednesdays.
 
 - snail mail:
 
