@@ -1,4 +1,4 @@
-I am an Associate Professor at the [University of Illinois at Chicago][uic] in the [Department of Computer Science][uiccs]. As of Fall 2025, I also serve as the College of Engineering [Associate Dean for Faculty Affairs](https://engineering.uic.edu/about/administration/).
+I am a Professor at the [University of Illinois at Chicago][uic] in the [Department of Computer Science][uiccs]. As of Fall 2025, I also serve as the College of Engineering [Associate Dean for Faculty Affairs](https://engineering.uic.edu/about/administration/).
 
 From Fall 2022 to Fall 2025, I served as the [Director of Undergraduate Studies](https://cs.uic.edu/undergraduate/).
 
@@ -7,13 +7,14 @@ Contact information:
 - in person:
 
   - room 4411 CDRLC
-  - Fall 2025 office hours: 3:30-4:30 Tuesdays and Wednesdays.
+  - Fall 2025 office hours: 3:30-4:30 Mondays and Tuesdays.
 
 - snail mail:
 
   - University of Illinois at Chicago  
     Dept. Computer Science  
-    Room 1120 SEO (M/C 152)  
+    850 W Taylor St.
+    4411 CDRLC (M/C 152)  
     Chicago, IL 60607
 
 - email: [ckanich@uic.edu][ckanich]
