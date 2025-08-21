@@ -1,10 +1,10 @@
 name: "Chris Kanich"
-description: "Associate Professor Chris Kanich's personal web page."
+description: "Professor Chris Kanich's personal web page."
 author: "Chris Kanich"
 googlescholar: "https://scholar.google.com/citations?user=Zy1b3UAAAAAJ&hl=en"
 baseurl: "/~ckanich"
 
-exclude: ["Makefile","README.md", "vendor", "Gemfile*", "*.enc"]
+exclude: ["Makefile", "README.md", "vendor", "Gemfile*", "*.enc"]
 
 viewsource: "https://github.com/kaytwo/website"
 
@@ -21,9 +21,8 @@ scholar:
 
   sort_by: year,month
   order: descending
-  
+
   bibliography: publications.bib
   source: _includes/
   repository: papers
   bibliography_template: "{{reference}} {% if link %} <a href='{{link}}'>PDF</a> {% endif %}"
-
