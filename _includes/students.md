@@ -3,10 +3,10 @@ Ph.D. students:
 * [Mir Masood Ali][masood]
 * [John Kristoff][jtk]
 * Joel Miller
-* [Shubham Singh][shubham]
 
 Ph.D. alums:
 
+* [Shubham Singh][shubham] 2025 -> UChicago DSI
 * [Mohammad Ghasemisharif][moe] 2023
 * [Sara Amini][sara] 2020 -> Microsoft Corporation
 * [Mohammad Taha Khan][taha] 2020 -> Washington & Lee University
