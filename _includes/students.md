@@ -12,33 +12,44 @@ Ph.D. alums:
 * [Mohammad Taha Khan][taha] 2020 -> Washington & Lee University
 * [Peter Snyder][pete] 2018 -> Brave Software
 
-Undergrads:
-
-* Adithya Prasad
-* Carson Zhang
+Undergrads & MS Students:
+* Daniel Alzeidan
+* Adam Aubry
+* Victor Escudero
+* Mehtab Kaur
+* Adrian Knight
+* Ivan Torres
 
 Alums:
 
+* Yousef Abuadas
 * Funmilola Akintoye
 * [Sruti Bhagavatula][sruti] -> CMU PhD -> Assistant Professor of Instruction at Northwestern University
 * [Joshua Castor][josh]
 * [Alex Chomiak](https://www.linkedin.com/in/alex-chomiak-308bb0195/) -> UIUC MS, Senior Software Engineer at Fetch Rewards
 * Sangeeta Chowdhary -> Rutgers -> AMD
+* Omar Figueroa
 * [Bradley Golden][bradley]
 * Oliver Hui
 * [Awais Jafar][awais] -> Uber
 * Lubna Mirza
 * Dan Moreno
 * [Arshad Narmawala](https://www.linkedin.com/in/anarmawala) -> Associate Software Engineer at Lockheed Martin RMS
+* Achyut Patel
+* Kriish Patel
 * Alex Pieczynski
+* Adithya Prasad
 * Srishti Pyasi
 * Natasha Rice
 * [Jamie Rodica](https://www.linkedin.com/in/jamie-rodica/) -> Associate Software Engineer at Morningstar
+* Michael Rosas
 * Weiheng Alex Ruan
 * Ameesha Saxena
 * Rayaan Siddiqi -> SPEDxchange
+* Olukolajo Sodipe
 * Arthur Smirnov
 * Moin Vahora
+* Carson Zhang
 
 
 [Advice for prospective students](prospective.html)
