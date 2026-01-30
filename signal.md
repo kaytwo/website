@@ -10,7 +10,7 @@ I'm [Chris Kanich](https://www.cs.uic.edu/~ckanich/), a Professor of Computer Sc
 * **Your conversation metadata:** Signal doesn't track who you talk to or when.  
 * **Your identity:** A **Username** can hide your phone number but let you interact with others.
 
-There are many apps that advertise themselves as "secure"" messengers, but most do not actually provide these protections, and none are as well-trusted by cybersecurity professionals as Signal.
+There are many apps that advertise themselves as "secure messengers, but most do not actually provide these protections, and none are as well-trusted by cybersecurity professionals as Signal.
 
 **Signal can't stop:**
 
